@@ -1,0 +1,5 @@
+
+object_weapon_ranged_pistol_pistol_trando_suppressor = object_weapon_ranged_pistol_shared_pistol_trando_suppressor:new {
+
+}
+ObjectTemplates:addTemplate(object_weapon_ranged_pistol_pistol_trando_suppressor, "object/weapon/ranged/pistol/pistol_trando_suppressor.iff")

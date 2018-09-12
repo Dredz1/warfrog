@@ -1,0 +1,7 @@
+includeFile("static/worldbuilding/sign/thm_sign_bank.lua")
+includeFile("static/worldbuilding/sign/thm_sign_cantina.lua")
+includeFile("static/worldbuilding/sign/thm_sign_cloning.lua")
+includeFile("static/worldbuilding/sign/thm_sign_garage.lua")
+includeFile("static/worldbuilding/sign/thm_sign_medcenter.lua")
+includeFile("static/worldbuilding/sign/thm_sign_starport.lua")
+includeFile("static/worldbuilding/sign/thm_sign_shuttleport.lua")

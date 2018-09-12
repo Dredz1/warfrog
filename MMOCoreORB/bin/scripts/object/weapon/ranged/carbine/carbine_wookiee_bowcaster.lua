@@ -1,0 +1,5 @@
+
+object_weapon_ranged_carbine_carbine_wookiee_bowcaster = object_weapon_ranged_carbine_shared_carbine_wookiee_bowcaster:new {
+
+}
+ObjectTemplates:addTemplate(object_weapon_ranged_carbine_carbine_wookiee_bowcaster, "object/weapon/ranged/carbine/carbine_wookiee_bowcaster.iff")
